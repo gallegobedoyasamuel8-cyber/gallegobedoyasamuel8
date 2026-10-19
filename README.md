@@ -87,12 +87,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gallegobedoyasamuel8&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es"
+    src="https://github-readme-stats.vercel.app/api?username=gallegobedoyasamuel8-cyber&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es"
     alt="Estadísticas de GitHub"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallegobedoyasamuel8&layout=compact&theme=tokyonight&hide_border=true&locale=es"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallegobedoyasamuel8-cyber&layout=compact&theme=tokyonight&hide_border=true&locale=es"
     alt="Lenguajes de programación más utilizados"
     height="180"
   />
@@ -100,14 +100,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gallegobedoyasamuel8&theme=tokyonight&hide_border=true&locale=es"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gallegobedoyasamuel8-cyber&theme=tokyonight&hide_border=true&locale=es"
     alt="Racha de contribuciones de GitHub"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=gallegobedoyasamuel8&style=for-the-badge&color=blueviolet"
+    src="https://komarev.com/ghpvc/?username=gallegobedoyasamuel8-cyber&style=for-the-badge&color=blueviolet"
     alt="Visitas al perfil de GitHub"
   />
 </p>
