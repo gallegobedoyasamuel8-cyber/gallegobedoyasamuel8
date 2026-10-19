@@ -23,8 +23,8 @@
 
 - 🎓 Actualmente curso la **Tecnología en Análisis y Desarrollo de Software (ADSO)** en el **SENA CTGI** (Ficha 3484008).
 - 📜 **Bachiller Académico** egresado de la **Institución Educativa Juan Sebastián del CENSA (CENSA)**.
-- 🚀 Desarrollador principal del proyecto **Mi Ciudad**, seleccionado para la **Fase II del Fondo de Inversión / Fondo Emprender del SENA** (Convocatoria 19864281).
-- 💬 Idiomas: **Español** (Nativo) e **Inglés** (Básico / A2).
+- 🚀 Desarrollador principal del proyecto **Mi Ciudad**.
+- 💬 Idiomas: **Español** (Nativo) e **Inglés** (Básico).
 
 ---
 
@@ -70,17 +70,17 @@
 ### 🏙️ Mi Ciudad
 > **Plataforma socio-tecnológica comunitaria y gestión de reportes urbanos (Bello, Antioquia)**
 - **Descripción:** Plataforma digital desarrollada para permitir a los ciudadanos del municipio de Bello reportar problemáticas urbanas (daños en vías, recolección de basura, fallas en servicios públicos) y realizar seguimiento en tiempo real del estado de sus casos.
-- **Reconocimiento:** Seleccionado para la **Fase II de presentación ante el Fondo Emprender del SENA** (Convocatoria 19864281).
 - **Tecnologías:** Python, PHP, MySQL, HTML5, CSS3, JavaScript.
 - **Aportes técnicos:**
   - Diseñó y estructuró la arquitectura de la base de datos relacional.
   - Creó el módulo de validación con documento de identidad para filtrar noticias falsas y reportes fraudulentos.
   - Implementó dashboards informativos y secciones de novedades diarias para la comunidad.
 
-### 💬 Ciudad GN Chat
-> **Aplicación de mensajería y procesamiento de datos en tiempo real**
-- **Descripción:** Plataforma interactiva enfocada en la comunicación fluida, el intercambio directo de mensajes y la gestión optimizada de persistencia de datos.
-- **Tecnologías:** Python, JavaScript, HTML5, CSS3, MySQL / PostgreSQL.
+### 🤖 GN Smart Chat
+> **Solución de automatización e IA para PyMEs**
+- **Descripción:** Modelo de negocio y arquitectura técnica para la implementación de agentes conversacionales inteligentes integrados a WhatsApp.
+- **Tecnologías:** Python, APIs de IA, Automatización de Flujos.
+- **Funcionalidades:** Atención al cliente 24/7, reducción de costos operativos y gestión automatizada de consultas.
 
 ---
 
